@@ -1,0 +1,11 @@
+.container,.row{
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+.time{
+    background-color: #f8f8f8;
+}
