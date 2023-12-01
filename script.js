@@ -1,5 +1,5 @@
 var s=0;
-var m=24;
+var m=40;
 var h=12;
 var time="PM";
 
